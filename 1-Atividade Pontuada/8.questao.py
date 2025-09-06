@@ -1,7 +1,5 @@
-#Limpar terminal
-
 #Atividade avaliativa- 05/09/2025
-
+#Limpar terminal
 import os
 os.system("cls")
 
